@@ -204,7 +204,7 @@ img{max-width:100%;}
 	display:block;
 }
 .type-videos ul li a:before{
-	content: url(../images/marker2.png);
+	content: url(marker2.png);
 	padding: 0px 8px 0px 5px;
 	vertical-align: sub;
 }
@@ -320,7 +320,7 @@ img{max-width:100%;}
 	width: 40px;
 	display:block;
 	text-indent: -9999px;
-	background: transparent url(../images/social-icons.png);
+	background: transparent url(images/social-icons.png);
 }
 .contact-info1 {
 	font-family: Montserrat;
@@ -353,7 +353,7 @@ img{max-width:100%;}
 	width: 40px;
 	display: block;
 	text-indent: -9999px;
-	background: transparent url(../images/social-icons.png);
+	background: transparent url(social-icons.png);
 }
 .social-icons a.twitter {
 	background-position: -40px top;
@@ -972,7 +972,7 @@ img{max-width:100%;}
 		font-size: 0.9em;
 	}
 	.search input[type="submit"] {
-		background: url(../images/search-icon.png) no-repeat 40% 41% #000;
+		background: url(search-icon.png) no-repeat 40% 41% #000;
 		width: 41px;
 	}
 	.top-nav {
